@@ -60,7 +60,17 @@
 	top: 0;
 	position: sticky;
 }
-
+#twice-link{
+	font-family: Preahvihear;
+    text-decoration: none;
+    color: white; 
+	background-color: #FF5FA2;
+	margin-left: -8px;
+	margin-right: -8px;
+	padding: 5px;
+	top: 0;
+	position: sticky;
+}
 #gidle-image{
 	width: 90%;
 	backface-visibility: hidden;
@@ -103,8 +113,10 @@
 }
 #artist-highlight{
 	font-size: 1.1em;
+	font-family: Preahvihear;
 }
 .artist-account{
+	font-family: Preahvihear;
 	font-size: 1.1em;
 	display: inline-block;
 }
